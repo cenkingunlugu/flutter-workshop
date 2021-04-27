@@ -1,0 +1,19 @@
+{
+  "name": "flutter-workshop",
+  "version": "1.0.0",
+  "description": "**Installation (MAC):**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flutter",
+    "workshop",
+    "frontmen"
+  ],
+  "author": "Cenk Ebret",
+  "license": "ISC",
+  "dependencies": {
+    "reveal.js": "^4.1.0"
+  }
+}
