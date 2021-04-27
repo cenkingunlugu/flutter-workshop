@@ -1,4 +1,4 @@
-# FLUTTER WORKSHOP**
+# FLUTTER WORKSHOP
 
 **Installation (MAC):**
 
