@@ -55,3 +55,15 @@ Flutter has an intiutive learning curve. For example:
 **FutureBuilder** lets say you make a request to a service which returns a single response in future (like promise object), you can use **FutureBuilder**
 
 **StreamBuilder** lets say you make a request to a service which returns stream (like rxjs streams) you can use **StreamBuilder**
+
+# Available Public APIS:
+
+**NASA API**
+
+For this workshop, you can use my API key
+```
+var API_KEY = 'ZQWAp3Y0JE5ZY2hwd1RMNGpVfmP2fPRYcuusPQvf'
+```
+Or you can get your own API key from [NASA API](https://api.nasa.gov/)
+
+You will also see available apis when you click **Browse APIS** button on the NASA website.
